@@ -1,0 +1,126 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header1 {
+    height: 10%;
+  }
+  .header2 {
+    height: 10%;
+    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .p2 {
+    height: 80%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .heading {
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Paragraph {
+    height: 10%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .stores {
+    height: 8%;
+    width: 12%;
+    margin-top: 5%;
+  }
+  .left {
+    width: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .right {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .pics {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80%;
+  }
+  .p123 {
+    width: 33%;
+    height: 90%;
+  }
+  .p12 {
+    height: 80%;
+    width: 33%;
+    display: flex;
+
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+
+  .container2 {
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+  }
+  .left2 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: cente;
+    flex-direction: column;
+  }
+  .right2 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .para {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: x-lae;
+    font-weight: lighr;
+    height: 60%;
+  }
+  .left-con {
+    width: 60%;
+    margin-left: 20%;
+    font-size: x-large;
+    height: 60%;
+  }
+  .left-con1 {
+    width: 60%;
+    margin-left: 20%;
+
+    font-size: x-large;
+  }
+  .para2 {
+    width: 60%;
+    height: 80%;
+    margin-left: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: cente;
+    flex-direction: column;
+  }
+  /* .border {
+    border: 1px solid black;
+  } */
+  
