@@ -2,6 +2,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    
   }
 
   .header1 {
@@ -13,7 +14,10 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
   }
+ 
+  
   .p2 {
     height: 80%;
 
@@ -37,9 +41,14 @@
     flex-direction: column;
   }
   .stores {
-    height: 8%;
-    width: 12%;
-    margin-top: 5%;
+    width: 13%;
+    height: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(198, 169, 174);
+    color: rgb(249, 240, 240);
+    font-weight: bold;
   }
   .left {
     width: 10%;
@@ -78,6 +87,7 @@
     height: 80vh;
     display: flex;
     flex-direction: row;
+    
   }
   .left2 {
     width: 50%;
@@ -85,12 +95,14 @@
     justify-content: center;
     align-items: cente;
     flex-direction: column;
+    
   }
   .right2 {
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
+    
   }
   .para {
     margin-left: 10%;
@@ -120,7 +132,82 @@
     align-items: cente;
     flex-direction: column;
   }
-  /* .border {
+   .border {
     border: 1px solid black;
-  } */
+    border: none;
+  } 
+  .container3 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  justify-content: center;
+align-items: center;}
+.Instagram {
+  width: 20%;
+  height: 5%;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+      }
+  .Pics3 {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 35%;
+    justify-content: space-between;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .pic1234{
+    width: 23.5%;
+  }
+  .follow {
+    width: 13%;
+    height: 7%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(198, 169, 174);
+    color: rgb(249, 240, 240);
+    font-weight: bold;
+  }
+  .container4 {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+  justify-content: center;
+align-items: center;}
+.left4{
+  width: 45%;
+  height: 80%;
+  margin-left: 9%;
+  display: flex;
+  flex-direction: column;
   
+  
+}
+.right4{
+  width: 55%;
+  height: 80%;
+  margin-right: 13%;
+}
+ .input1 {   
+    width: 90%;
+    height: 20px;
+    padding: 16px 56px 16px 16px;
+    background-color:lightgray;
+    border: none;
+    outline: none;
+    margin-top: 1%;}
+
+    .input2 {   
+      width: 90%;
+      height: 80px;
+      padding: 0px 56px 55px 16px;
+      background-color:lightgray;
+      border: none;
+      outline: none;
+      margin-top: 1%;}
+    
