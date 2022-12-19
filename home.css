@@ -24,6 +24,11 @@
 
     
   }
+
+  .border {
+    border: 1px solid black;
+    border: none;
+  } 
   .header{
     height: 20%;
     position: fixed;
@@ -239,10 +244,7 @@
     align-items: cente;
     flex-direction: column;
   }
-   .border {
-    border: 1px solid black;
-    border: none;
-  } 
+   
   .container3 {
     height: 100vh;
     display: flex;
