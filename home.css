@@ -94,7 +94,7 @@
     height: 60%;
     display: flex;
     align-items: center;
-    border-radius: 15%;
+    border-radius: 170PX;
     justify-content: center;
     background-color:rgb(88, 59, 182);
     color: white;
@@ -129,6 +129,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 55px;
+    padding-top: 30%;
   }
   .Paragraph {
     height: 10%;
@@ -169,6 +171,7 @@
     flex-direction: row;
     justify-content: space-between;
     height: 80%;
+    width: 100%;
   }
   .p123 {
     width: 33%;
@@ -307,7 +310,8 @@
 .right4{
   width: 55%;
   height: 80%;
-  margin-right: 13%;
+  margin-right: 11%;
+  margin-left: %;
 }
  .input1 {   
     width: 90%;
