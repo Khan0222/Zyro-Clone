@@ -7,7 +7,7 @@
   margin-right: 5%;
   justify-content: cente;
   align-items: center;
-  margin-top: 16%;
+  margin-top: 12%;
   color: grey;
 }
 
@@ -133,13 +133,14 @@ justify-content: space-between;
 align-items: center;
 }
 .map{
-  width: 65%;
+  width: 75%;
   height: 100%;
   margin-top: 10%;
 
+
 }
 .addc{
-width: 35%;
+width: 25%;
 height: 100%;
 margin-left: 10%;
 color: black;
@@ -161,6 +162,7 @@ color: black;
   height: 67.5vh;
   width: 100vw;
   margin: none;
+  margin-top: 15%;
 }
 .basecon {
   height: 100%;

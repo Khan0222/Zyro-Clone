@@ -7,7 +7,7 @@
     margin-right: 5%;
     justify-content: center;
     align-items: cente;
-    margin-top: 16%;
+    margin-top: 10%;
   }
 
   .containermain {
@@ -157,7 +157,8 @@
     margin-left: 7%;
     display: flex;
     padding-right: 7%;
-    padding-top: 7%;
+    padding-top: 8%;
+
 }
 .fav{
     display: flex;
@@ -181,7 +182,7 @@
         height: 95%;
         display: flex;
         flex-direction: row;
-        flex-wrap: wrap-reverse;
+        flex-wrap: wrap;
     }
 
     .pic-prize{
@@ -257,3 +258,49 @@
             font-weight: bold;
             font-size: larger;
           }
+
+          .containertt {
+  
+            height: 50vh;
+            
+            display: flex;
+            flex-direction: row;
+            margin-left: 5%;
+            margin-right: 5%;
+            justify-content: center;
+            align-items: cente;
+            margin-top: %;
+          
+        
+        }
+
+        .brows{
+          width: 60%;
+        }
+
+        .cart{
+          width: 40%;
+
+        }
+
+        .stores {
+          width: 150px;
+          height: 35px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: rgb();
+          color: rgb(15, 8, 8);
+          font-weight: bold;
+          border: 1px black;
+        }
+
+        .bowss{
+          width: 30%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          border: 1px black;
+        }
