@@ -254,10 +254,11 @@
       font-weight: bold;
       border: none;
         }
-        a:hover{
-            font-weight: bold;
-            font-size: larger;
-          }
+        a:hover {
+          color: grey;
+          text-decoration: underline;
+          background-color: grey;
+        }
 
           .containertt {
   
