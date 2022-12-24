@@ -2,7 +2,7 @@
 
 
 .container {
-          height: 100vh;
+          height: 50vh;
           
           display: flex;
           flex-direction: column;
@@ -37,7 +37,7 @@
         
         .border {
           border: 1px solid black;
-          border: non;
+          border: none;
         }
         .header {
           height: 11%;
@@ -154,7 +154,7 @@
         }
         .stores {
           width: 30%;
-          height: 6%;
+          height: 10%;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -408,6 +408,7 @@
           margin-right: 8%;
           display: flex;
           flex-direction: column;
+          padding-top: 10%;
         }
         .contact {
           width: 100%;
@@ -434,6 +435,7 @@
           color: rgb(249, 240, 240);
           font-weight: bold;
           border: none;
+          margin-top: 3%;
         }
         a:hover {
           color: grey;
